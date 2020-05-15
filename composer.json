@@ -1,0 +1,13 @@
+{
+    "name": "root/modelo-parcial",
+    "authors": [
+        {
+            "name": "SofiaBarreiro",
+            "email": "barreirosofia@hotmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.0",
+        "firebase/php-jwt": "^5.2"
+    }
+}
